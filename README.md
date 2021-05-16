@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="170" height="170" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
+  <img width="120" height="120" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
 </p>
 
 # Python
